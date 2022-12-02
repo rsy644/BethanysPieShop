@@ -1,13 +1,11 @@
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.exe
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.deps.json
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.runtimeconfig.json
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.runtimeconfig.dev.json
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.dll
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.pdb
-C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csprojAssemblyReference.cache
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.AssemblyInfo.cs
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cache
@@ -229,3 +227,5 @@ C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.GeneratedMSBuildEditorConfig.editorconfig

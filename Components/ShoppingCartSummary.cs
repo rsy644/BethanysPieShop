@@ -26,9 +26,6 @@ namespace BethanysPieShop.Components
             };
 
             return View(shoppingCartViewModel);
-
         }
-
-
     }
 }
